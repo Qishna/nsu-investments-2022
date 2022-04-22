@@ -1,4 +1,4 @@
-# nsu-investments-2022
+# Introduction to Finance and Fundamentals of Investments
 Homeworks from NSU Introduction to Finance and Fundamentals of Investments сourse
 
 ### Course map
