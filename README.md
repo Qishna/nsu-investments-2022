@@ -1,7 +1,7 @@
 # nsu-investments-2022
 Homeworks from NSU Introduction to Finance and Fundamentals of Investments сourse
 
-### Карта курса
+### Course map
 
 * [hw-01](hw-01)
 * [hw-02](hw-02)
